@@ -28,6 +28,7 @@ server or even local file system.
 
 
 ##How To Contribute
+	PUTANGINA MO
 
 ##Copyright
 2020 copyright all right reserved.
