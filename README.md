@@ -28,3 +28,6 @@ server or even local file system.
 
 
 ##How To Contribute
+
+##Copyright
+2020 copyright all right reserved.
