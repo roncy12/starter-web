@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   JRoncy Nava roncy@gittraining @roncy12
 
 # THANKS
 
